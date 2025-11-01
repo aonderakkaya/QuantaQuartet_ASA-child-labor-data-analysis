@@ -1,0 +1,21 @@
+# Core scientific Python stack
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+seaborn==0.13.2
+scikit-learn==1.4.2
+statsmodels==0.14.1
+
+# Scientific computing and stats
+scipy==1.11.4
+
+
+# Notebook environment
+jupyter==1.0.0
+jupyterlab==4.2.5
+
+# Interactive visualization
+plotly==5.24.1
+
+# Post-hoc statistical tests (used conditionally)
+scikit-posthocs==0.9.0

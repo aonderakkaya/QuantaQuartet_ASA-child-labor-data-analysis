@@ -156,11 +156,4 @@ Contributions are welcome:
 
 Use Issues for bug reports and feature requests.
 
-## License
-
-No license file is present yet. Consider adding a `LICENSE` (e.g., MIT, Apache-2.0) to clarify usage terms.
-
-## Contact
-
-For questions or feedback, please open an Issue or contact the repository owner.
 

@@ -1,6 +1,10 @@
 # ASA Child Labor Data Analysis
 
+##Introduction
+
 This repository provides an end-to-end analysis of indicators related to child labor using Jupyter Notebooks. It covers exploratory data analysis (EDA), regression modeling, and clustering. All datasets are stored in the repository root for convenience.
+
+Please check out our official presentation for this project on YouTube, presented by our team member Ahmed Önder Akkaya: https://www.youtube.com/watch?v=-r9DeI_vplI
 
 ## Table of Contents
 
